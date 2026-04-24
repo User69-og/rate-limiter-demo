@@ -77,7 +77,7 @@ def serve_frontend():
     <body>
         <div class="card">
             <h2>Authentication Gateway</h2>
-            <div class="header-info">Project by M.PRADHI DAKSHITH | 25MIY0032</div>
+            <div class="header-info">Project by Pujara Nirmit Sumitbhai | 25MCA0216</div>
             <p>Limit: 3 attempts. Lockout cooldown: 5 seconds.</p>
             <button onclick="attemptLogin()">Attempt Login</button>
             <div id="status">Ready</div>
